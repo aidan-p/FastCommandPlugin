@@ -1,0 +1,4 @@
+name: FastCommandPlugin
+main: com.example.fastcommands.FastCommandPlugin
+version: 1.0
+api-version: 1.20
